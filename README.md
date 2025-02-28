@@ -1,5 +1,5 @@
 # HarmonyHeros
-- Unity Project:https://github.com/CR3XX12/COMP390_001_HarmonyHero
+- Unity Project: https://github.com/CR3XX12/COMP390_001_HarmonyHero
 - WebGL Version Available (PC): (TBA for final release)
   
 ## Contact
