@@ -1,6 +1,7 @@
 # HarmonyHeros
 - Unity Project: https://github.com/CR3XX12/COMP390_001_HarmonyHero
-- WebGL Version Available (PC): (TBA for final release)
+- WebGL Version Available (PC): https://yobisaboy.itch.io/harmony-heroes
+  (Some functions are not supported in the WebGL version at the moment, Please download the exe for better experience)
   
 ## Contact
 - Tel: +1 (647) 637-0831
