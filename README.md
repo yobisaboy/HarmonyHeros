@@ -1,5 +1,5 @@
 # HarmonyHeros
-<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90"><img src="https://github.com/yobisaboy/Resume/blob/main/ChomperStudiosLogo.png" alt="chomper Logo" height="90">
+<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90"> <img src="https://github.com/yobisaboy/Resume/blob/main/ChomperStudiosLogo.png" alt="chomper Logo" height="90">
 
 ## Introduction
 It is a single-player turn-based rhythm game. The game will follow a young bard who’s on his quest to save his partner. Players will be able to battle infected monsters found in the overworld and fend for themselves by purifying them.
