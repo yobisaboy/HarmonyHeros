@@ -30,7 +30,7 @@ It is a single-player turn-based rhythm game. The game will follow a young bard 
 <img src="./Images/gameover.png" width="533">
 
 ## Build & Source Code
-- Demonstration Video: 
+- Demonstration Video: https://youtu.be/efdeuWxwAgQ
 - WebGL Version Available (PC): https://yobisaboy.itch.io/harmony-heroes
 - Game Download: https://github.com/yobisaboy/HarmonyHeros
 - Unity Project: https://github.com/CR3XX12/COMP390_001_HarmonyHero
